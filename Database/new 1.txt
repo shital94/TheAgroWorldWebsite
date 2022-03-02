@@ -1,0 +1,4 @@
+add farmer kona pasethi kharide che and farmer kon che ?
+use case diagram ma arrow add
+login form single add
+manage updation daily by farmers,etc
