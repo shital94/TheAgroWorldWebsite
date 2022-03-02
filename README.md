@@ -1,1 +1,3 @@
-# TheAgroWorldWebsite
+The Agro World system provides its users and researches to get online information about the crops, statistical details and increase products. Our Project (The Agro World) has been developed on PHP and MySQL. The Agro World System which will allow formal and informal Farmers, Wholesalers and Vendors to purchase and sell their products on the internet.	
+	
+               For the concept of ‘DIGITAL INDIA’ it is necessary to purchase or sell products online. So that website provides online shopping for users. It also has concept of “SUB-DOMAIN”. Using these concepts, Multiple Manufacturer and Multiple Sellers are connected with website.
